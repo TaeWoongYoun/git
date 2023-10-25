@@ -3,4 +3,5 @@ main > ul > li{
     height: 20px;
     background-color: aquamarine;
     border-bottom: 3px #000000 solid ;
+    border-radius: 7px;
 }
